@@ -1,0 +1,16 @@
+PFTD core implementation
+
+This distribution includes a source snapshot of Agent Distillation:
+GitHub: Nardien/agent-distillation
+
+Associated paper: Distilling LLM Agent into Small Models with Retrieval and Code Tools,
+Minki Kang, Jongwon Jeong, Seanie Lee, Jaewoong Cho, and Sung Ju Hwang, 2025.
+
+The upstream distribution incorporates smolagents and other third-party work.
+Original source headers and the upstream Apache-2.0 license are preserved.
+PFTD adds compilation, checking, curriculum, policy optimization and integration code.
+The upstream README is shortened for the anonymous, hyperlink-free documentation.
+This is not an official product of KRAFTON Inc. or DeepAuto.ai.
+
+Manuscript figures are supplied by the PFTD authors for display with this project;
+the source-code license does not override third-party datasets or figure rights.

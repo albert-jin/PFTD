@@ -1,0 +1,8 @@
+**
+!docker/
+!docker/Dockerfile
+!pftd/
+!pftd/__init__.py
+!pftd/worker.py
+!pftd/codec.py
+!pftd/contracts.py
